@@ -5,6 +5,8 @@ This is my blog based on jekyll. And I change the style and interactive. If you 
 You can visit [here](http://gaohaoyang.github.io) to see this blog.
 
 ---
+---
+[http://111.com](http://baidu.com)
 
 这是我的博客，基于 jekyll。我改了所有默认的样式和交互。如果你想使用这个博客模板。**请先在这个仓库上点个star吧**，这也是对我的肯定和鼓励，谢谢了。然后你可以克隆这个仓库用作你自己的博客。
 
@@ -16,7 +18,7 @@ You can visit [here](http://gaohaoyang.github.io) to see this blog.
 
 ## 被引用信息
 
-使用了我的模板并写明来源的人：   
+使用了我的模板并写明来源的人：
 
 * [dreamholy](http://dreamholy.github.io/)
 
